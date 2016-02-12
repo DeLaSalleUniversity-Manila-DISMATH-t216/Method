@@ -1,7 +1,7 @@
 # Method
 
 
-![jcninsanity](Screenshot 001)
+![jcninsanity](Screenshot 001.PNG)
 
 ~~~
 package ph.edu.dlsu;
